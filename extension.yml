@@ -1,0 +1,7 @@
+name: Socket Message
+package: socket-message
+version: 1.0.0
+description: Send text messages over sockets
+author: Aaron Parker
+license: MIT
+repository: "https://github.com/daforester/deckboard-ext-socket-message"

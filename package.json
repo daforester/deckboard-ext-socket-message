@@ -1,0 +1,16 @@
+{
+  "name": "socket-message",
+  "version": "1.0.0",
+  "description": "Send messages over sockets",
+  "main": "index.js",
+  "dependencies": {
+    "deckboard-kit": "^0.1.0",
+    "net": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "deckboard-kit --build"
+  },
+  "author": "Aaron Parker",
+  "license": "MIT"
+}
